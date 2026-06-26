@@ -37,7 +37,7 @@ I bring a solid background from industries that demand extreme precision, strict
 
 ## 📫 Connect with Me
 
-* **LinkedIn:** [Your LinkedIn Profile Link] *(Replace with your link)*
-* **Email:** [Your Email Address]
+* **LinkedIn:** https://www.linkedin.com/in/radoslav-chakarov-566512410
+* **Email:** waitingboy@gmail.com
 
 *"Quality is not an act, it is a habit."* – Open to internship and Junior QA opportunities!
